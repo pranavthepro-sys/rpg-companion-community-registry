@@ -195,5 +195,18 @@
     "github_repo": "Violetwolf003-beep/Street-Fighter-pack",
     "repo_url": "https://Violetwolf003-beep.github.io/Street-Fighter-pack/",
     "has_system": false
+  },
+  {
+    "name": "Balanced-Homebrew-Subclasses",
+    "description": "Includes balanced, fun homebrew subclasses by me for Warlocks (2), Monks (2), Fighters (1) and Druids (1)!",
+    "tags": [
+      "5e2024",
+      "homebrew",
+      "balanced"
+    ],
+    "stars": 0,
+    "github_repo": "pranavthepro-sys/Balanced-Homebrew-Subclasses",
+    "repo_url": "https://pranavthepro-sys.github.io/Balanced-Homebrew-Subclasses/",
+    "has_system": false
   }
 ]
